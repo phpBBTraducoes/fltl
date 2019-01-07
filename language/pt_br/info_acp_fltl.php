@@ -22,7 +22,7 @@ if ( empty($lang) || !is_array($lang) )
 
 $lang = array_merge($lang, array(
     'ACP_FANCY_TITLE'				=> 'Fancy Lazy Topics Loader',
-	'FLTL_NOTICE'				    => '<div class="phpinfo"><p>As configurações para essas extensões estão em <strong>%1$s » %2$s » %3$s</strong>.</p></div>',
-	'SS_HELPER_NOTY'				=> 'SiteSplat BBcore não existe!<br /> Baixe o <a href="http://sitesplat.com" target="_blank">BBcore</a> e copie a pasta BBcore na sua pasta de extensão de sitesplat.',
+	'FLTL_NOTICE'				    => '<div class="phpinfo"><p>As configurações para esta extensão estão em <strong>%1$s » %2$s » %3$s</strong>.</p></div>',
+	'SS_HELPER_NOTY'				=> 'SiteSplat BBcore não existe!<br />Baixe o <a href="http://sitesplat.com" target="_blank">BBcore</a> e copie a pasta BBcore na sua pasta de extensão de sitesplat.',
 ));
 
