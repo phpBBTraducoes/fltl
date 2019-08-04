@@ -19,14 +19,14 @@ $lang = array_merge($lang, array(
 	'FLTL'							=> 'Fancy Lazy Topics loader',
 	'FLTL_EXPLAIN'					=> 'Role para baixo para mais tópicos',
     'FLTL_BY'					    => '&nbsp;&#45;&nbsp;Por&nbsp;',
-	'FLTL_LIMIT'					=> 'Posts para exibir',
-	'FLTL_LIMIT_EXPLAIN'			=> 'Defina o máximo de mensagens por linha (padrão: 4)',
+	'FLTL_LIMIT'					=> 'Posts a exibir',
+	'FLTL_LIMIT_EXPLAIN'			=> 'Defina o máximo de posts por linha (padrão: 4)',
 
 	'FLTL_TIME'						=> 'Limite de Tempo do Tópico',
 	'FLTL_TIME_EXPLAIN'				=> 'Define o máximo de dias que o tópico será buscado no banco de dados',
 
 	'FLTL_TYPE'						=> 'Ordem',
-	'FLTL_TYPE_EXPLAIN'				=> 'Mostrar primeiro ou última mensagem dos tópicos recentes',
+	'FLTL_TYPE_EXPLAIN'				=> 'Mostrar primeiro ou último post dos tópicos recentes',
 
 	'FLTL_EXCLUDED_FORUMS'			=> 'Excluir categorias do Fancy Lazy Topics loader',
 	'FLTL_EXCLUDED_FORUMS_EXPLAIN'	=> 'Segure shift ou ctrl para selecionar mais de uma opção',
